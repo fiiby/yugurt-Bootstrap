@@ -1,3 +1,5 @@
 body {
-    background-color: aqua;
+    background-image: linear-gradient(to bottom right, #00F490,#00BBC9);
+  width: 1040px;
+  margin: 0 auto;
 }
